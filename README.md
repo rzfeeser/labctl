@@ -1,5 +1,7 @@
 # labctl
 
+![Telecom Claude Wizard controlling the lab with labctl](docs/telecom-claude-wizard.png)
+
 Operate the Alta3 Claude and 5G lab environment from the NOC terminal.
 
 ## Author
